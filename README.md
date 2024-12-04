@@ -1,7 +1,7 @@
 # Hakai Kelp Monitoring Program v1.0.0
 
 Welcome! This is an interactive application meant to help explore community data from the [Hakai rocky subtidal fish and invertebrate swath data from BC Central Coast](https://catalogue.hakai.org/dataset/ca-cioos_35beb32e-8dc9-42ab-9630-2ae23e414026).\
-All questions should be directed to the app developer Alex Schmill ([alex.schmill\@hakai.org](mailto:alex.schmill@hakai.org){.email}) <br> Explore the app at: <https://alexschmill.shinyapps.io/kelp_monitoring/>
+All questions should be directed to the app developer Alex Schmill ([alex.schmill\@hakai.org](mailto:alex.schmill@hakai.org)) <br> Explore the app at: <https://alexschmill.shinyapps.io/kelp_monitoring/>
 
 <img src="readme_png/kelp_app_screenshot.png"/>
 
