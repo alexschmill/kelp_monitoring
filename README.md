@@ -22,5 +22,5 @@ All questions should be directed to the app developer Alex Schmill ([alex.schmil
 
 1.  Interactive map with species-specific highlighting.
 2.  Reactable table that dynamically updates based on map clicks.
-3.  UI elements (e.g., species picker) support HTML formatting.I
+3.  UI elements (e.g., species picker) support HTML formatting.
 4.  Dynamic filtering based on the program, year, season, and species.
